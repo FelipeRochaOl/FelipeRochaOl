@@ -17,8 +17,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipeRochaOl&show_icons=true&theme=dracula" alt="feliperocha's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRochaOl&layout=compact&theme=dracula" alt="feliperocha's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=FelipeRochaOl&show_icons=true&theme=dracula" alt="feliperocha's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRochaOl&layout=compact&theme=dracula" alt="feliperocha's most languages"/>
 </p>
 
 <br><br>
