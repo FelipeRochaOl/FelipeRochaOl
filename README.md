@@ -4,7 +4,7 @@
 
 - 🔥 Technical leader and developer focused on helping people and developing teams
 
-- 🔭 I’m currently working at [Westwing](https://www.westwing.com.br)
+- 🔭 I’m currently working at [Apllos](https://www.apllos.com.br)
 
 - 💬 Ask me about **TypeScript, PHP, Node.JS, Clean Code, Clean Architecture, React, React Native, VueJS, Angular, Serverless, TDD, Pipelines, etc...**
 
@@ -17,8 +17,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=FelipeRochaOl&show_icons=true&theme=dracula" alt="feliperocha's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRochaOl&layout=compact&theme=dracula" alt="feliperocha's most languages"/>
+<img width="500em" src="https://github-readme-stats-psi-six-22.vercel.app/api?username=FelipeRochaOl&show_icons=true&theme=dracula" alt="feliperocha's stats"/>
+<img width="500em" src="https://github-readme-stats-psi-six-22.vercel.app/api/top-langs/?username=FelipeRochaOl&layout=compact&theme=dracula" alt="feliperocha's most languages"/>
 </p>
 
 <br><br>
